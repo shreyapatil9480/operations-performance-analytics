@@ -96,3 +96,7 @@ This project demonstrates how to:
 - Communicate insights clearly through visualizations and narrative in a notebook and README.
 
 Use this repository as a **portfolio piece** or as a starting point for more complex analytics projects.
+
+## Contributing
+
+Contributions are welcome! If you encounter issues or have suggestions for improvements, please open an issue or submit a pull request. For pull requests, fork the repository, create a new branch for your changes, and ensure your code is well-documented and tested before proposing a merge.

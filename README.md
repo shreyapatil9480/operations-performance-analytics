@@ -49,3 +49,10 @@ Containerize training pipeline for scheduled retraining.
 *Analytics portfolio project — 2025-10*
 
 <!-- build 7 -->
+
+### Implemented
+
+```bash
+pip install -r requirements.txt
+docker build -t train . && docker compose run train
+```
